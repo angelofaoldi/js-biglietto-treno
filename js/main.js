@@ -37,5 +37,15 @@ const prezzoKmConst = document.getElementById('prezzoKm');
 
 const interoConst = document.getElementById('intero');
 
+//-----------------------------------------------------------------------------------------
+
+// VARIABILE "COSTO BIGLIETTO INTERO" = DISTANZA * 0.21
+
+const distanza = Number(prompt('Quanti kilometri vuoi percorrere (km):'));
+
+console.log('Distanza scelta: ', distanza, 'km');
+
+
+
 
 
