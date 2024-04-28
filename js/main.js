@@ -31,3 +31,5 @@ const distanzaConst = document.getElementById('distanza');
 
 // VARIABILE "COSTO BIGLIETTO INTERO" = DISTANZA * 0.21
 
+const prezzoKmConst = document.getElementById('prezzoKm');
+
