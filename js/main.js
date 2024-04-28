@@ -18,3 +18,15 @@ provate a completare il codice di Pari/Dispari di cui abbiamo parlato a lezione.
 Sulla mia repo git trovate lo pseudo codice di riferimento.
 
 */
+
+//-----------------------------------------------------------------------------------------
+
+// VARIABILE ETà -> VALORE PROMPT
+
+const etaConst = document.getElementById('eta');
+
+// VARIABILE KM -> VALORE PROMPT
+
+
+
+// VARIABILE "COSTO BIGLIETTO INTERO" = DISTANZA * 0.21
