@@ -27,6 +27,7 @@ const etaConst = document.getElementById('eta');
 
 // VARIABILE KM -> VALORE PROMPT
 
-
+const distanzaConst = document.getElementById('distanza');
 
 // VARIABILE "COSTO BIGLIETTO INTERO" = DISTANZA * 0.21
+
