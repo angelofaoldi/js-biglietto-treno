@@ -63,6 +63,10 @@ const prezzoPerKm = 0.21;
 
 prezzoKmConst.innerHTML =  prezzoPerKm;
 
+// VARIABILE FLESSIBILE LET COSTO BIGLIETTO
+
+let interoCost = (distanza * prezzoPerKm);
+
 
 
 
