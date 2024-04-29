@@ -71,6 +71,18 @@ let interoCost = (distanza * prezzoPerKm);
 
 const under18 = 20; const over65 = 40;
 
+//-----------------------------------------------------------------------------------------
+
+// STRUTTURA IF {} ELSE {}
+
+if (eta < 18)
+
+{              }
+
+else if (eta > 65)
+
+{              }
+
 
 
 
