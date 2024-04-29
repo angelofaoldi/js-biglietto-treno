@@ -59,7 +59,9 @@ const etaAnni = Number(prompt('Quanti anni hai?'));
 
 const prezzoPerKm = 0.21;
 
+// HTML INPUT PREZZO PER KM 0.21
 
+prezzoKmConst.innerHTML =  prezzoPerKm;
 
 
 
