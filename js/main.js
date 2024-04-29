@@ -55,6 +55,13 @@ distanzaConst.innerHTML = 'Distanza scelta: ' + distanza + ' km';
 
 const etaAnni = Number(prompt('Quanti anni hai?'));
 
+// VARIABILE KM 0.21
+
+const prezzoPerKm = 0.21;
+
+
+
+
 
 
 
