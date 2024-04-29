@@ -21,11 +21,11 @@ Sulla mia repo git trovate lo pseudo codice di riferimento.
 
 //-----------------------------------------------------------------------------------------
 
-// VARIABILE ETà -> VALORE PROMPT
+// VARIABILE ETà
 
 const etaConst = document.getElementById('eta');
 
-// VARIABILE KM -> VALORE PROMPT
+// VARIABILE KM
 
 const distanzaConst = document.getElementById('distanza');
 
@@ -48,6 +48,13 @@ console.log('Distanza scelta: ', distanza, 'km');
 // HTML INPUT DISTANZA
 
 distanzaConst.innerHTML = 'Distanza scelta: ' + distanza + ' km';
+
+//-----------------------------------------------------------------------------------------
+
+// VARIABILE ETA' -> VALORE PROMPT
+
+const etaAnni = Number(prompt('Quanti anni hai?'));
+
 
 
 
