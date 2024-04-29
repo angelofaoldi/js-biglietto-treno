@@ -67,6 +67,14 @@ prezzoKmConst.innerHTML =  prezzoPerKm;
 
 let interoCost = (distanza * prezzoPerKm);
 
+// SCONTI 20% e 40%
+
+const under18 = 20; const over65 = 40;
+
+
+
+
+
 
 
 
