@@ -79,12 +79,18 @@ if (eta < 18)
 
 {   // SCONTO GIOVANI
     const sconto18 = (interoConst * under18) / 100;
+
+    // VARIABILE COSTO BIGLIETTO - SCONTO GIOVANI
+    const biglietto18 = (interoConst - sconto18);
 }
 
 else if (eta > 65)
 
 {   // SCONTO ANZIANI
-    const sconto65 = (interoConst * over65) / 100
+    const sconto65 = (interoConst * over65) / 100;
+
+    // VARIABILE COSTO BIGLIETTO - SCONTO ANZIANI
+    const biglietto65 = (interoConst - sconto65);
 }
 
 
