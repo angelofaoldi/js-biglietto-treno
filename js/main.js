@@ -77,11 +77,15 @@ const under18 = 20; const over65 = 40;
 
 if (eta < 18)
 
-{              }
+{   // SCONTO GIOVANI
+    const sconto18 = (interoConst * under18) / 100;
+}
 
 else if (eta > 65)
 
-{              }
+{   // SCONTO ANZIANI
+    const sconto65 = (interoConst * over65) / 100
+}
 
 
 
